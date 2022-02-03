@@ -6,7 +6,7 @@ Assignment as it's given from the course of [Ails Lab](https://www.ails.ece.ntua
 The aim of this work is to optimize the performance of deep learning models in the CIFAR-100 data set using the TENSORFLOW Library 2.
 
 Explaining the files
-* Given task: DeepLAssignment.pdf (*English*)
+* Given task: DeepLAssignment.pdf 
 * Notebook: DeepLearning.ipynb (*with comments in Greek*)
-* Report: DeepLearningAssignment.pdf (*English*)
+* Report: DeepLearningAssignment.pdf 
 
