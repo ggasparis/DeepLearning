@@ -7,6 +7,6 @@ The aim of this work is to optimize the performance of deep learning models in t
 
 Explaining the files
 * Given task: DeepLAssignment.pdf (*English*)
-* Notebook: DeepLearning.ipynb (*Greek cooments*)
+* Notebook: DeepLearning.ipynb (*with comments in Greek*)
 * Report: DeepLearningAssignment.pdf (*English*)
 
